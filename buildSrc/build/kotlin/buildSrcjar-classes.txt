@@ -1,0 +1,1 @@
+/Volumes/Work/Projects/food-delivery-compose/buildSrc/build/classes/kotlin/main/Configs.class
